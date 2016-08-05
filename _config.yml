@@ -1,7 +1,7 @@
 name: hubstest
 favicon: null
-layout_spectrum: 0.7033491018228233
-typography_spectrum: 0.2456514595542103
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
